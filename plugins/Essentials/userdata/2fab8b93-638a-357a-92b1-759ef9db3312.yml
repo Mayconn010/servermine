@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1703229379826
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1703229480817
+  login: 1703228255344
+money: '0'
+last-account-name: maycontreix
+logoutlocation:
+  world: 4eabfb0d-2cad-406d-88de-ca2c4b696c40
+  world-name: world
+  x: -1165.761443633147
+  y: 65.0
+  z: -240.00022899990094
+  yaw: -157.0634765625
+  pitch: 59.89863586425781
+lastlocation:
+  world: 4eabfb0d-2cad-406d-88de-ca2c4b696c40
+  world-name: world
+  x: -558.3181257768033
+  y: 113.0
+  z: -374.02285396378994
+  yaw: -16.398523330688477
+  pitch: 20.271589279174805

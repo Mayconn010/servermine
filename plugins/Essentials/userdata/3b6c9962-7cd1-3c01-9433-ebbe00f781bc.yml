@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1703217454619
+  login: 1703216780222
+money: '0'
+last-account-name: Bielvix08
+logoutlocation:
+  world: 4eabfb0d-2cad-406d-88de-ca2c4b696c40
+  world-name: world
+  x: -1948.6930648189561
+  y: 100.92159999847412
+  z: 830.6218815074482
+  yaw: -31.44781494140625
+  pitch: -1.7843616008758545
+lastlocation:
+  world: 4eabfb0d-2cad-406d-88de-ca2c4b696c40
+  world-name: world
+  x: -1322.3300705226445
+  y: 66.0
+  z: -2.449488537631894
+  yaw: 30.1639404296875
+  pitch: 15.431632041931152

@@ -1,0 +1,11 @@
+[08:05:51] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08:05:52] [ServerMain/ERROR]: Failed to start the minecraft server
+net.minecraft.util.SessionLock$ExceptionWorldConflict: /root/./world/session.lock: already locked (possibly by other Minecraft instance?)
+	at net.minecraft.util.SessionLock$ExceptionWorldConflict.a(SourceFile:95) ~[spigot-1.20.1-R0.1-SNAPSHOT.jar:3871-Spigot-d2eba2c-3f9263b]
+	at net.minecraft.util.SessionLock.a(SourceFile:41) ~[spigot-1.20.1-R0.1-SNAPSHOT.jar:3871-Spigot-d2eba2c-3f9263b]
+	at net.minecraft.world.level.storage.Convertable$ConversionSession.<init>(Convertable.java:517) ~[spigot-1.20.1-R0.1-SNAPSHOT.jar:3871-Spigot-d2eba2c-3f9263b]
+	at net.minecraft.world.level.storage.Convertable.validateAndCreateAccess(Convertable.java:430) ~[spigot-1.20.1-R0.1-SNAPSHOT.jar:3871-Spigot-d2eba2c-3f9263b]
+	at net.minecraft.server.Main.main(Main.java:174) ~[spigot-1.20.1-R0.1-SNAPSHOT.jar:3871-Spigot-d2eba2c-3f9263b]
+	at org.bukkit.craftbukkit.Main.main(Main.java:225) ~[spigot-1.20.1-R0.1-SNAPSHOT.jar:3871-Spigot-d2eba2c-3f9263b]
+	at org.bukkit.craftbukkit.bootstrap.Main.lambda$1(Main.java:60) ~[spigot-1.20.1.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]

@@ -1,0 +1,9 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+dev.bukkit.org	0	0	1703022136	15768000
+cdn.getbukkit.org	0	0	1703014398	15768000
+www.mediafire.com	0	0	1703230285	0
+drive.google.com	0	0	1703230779	31536000
+accounts.google.com	0	0	1703230781	31536000
+github.com	0	1	1703231655	31536000
